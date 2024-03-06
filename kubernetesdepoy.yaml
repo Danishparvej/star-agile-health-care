@@ -32,6 +32,6 @@ spec:
 
   type: NodePort
   ports:
-  - nodePort: 31006    
+  - nodePort: 31009   
     port: 8086
     targetPort: 8086
